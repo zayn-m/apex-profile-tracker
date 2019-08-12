@@ -1,0 +1,14 @@
+.profile-container {
+  background-color: #a8323a;
+}
+
+.profile-container__gamertag {
+  background-color: #752328;
+
+  color: white;
+}
+
+.avatar {
+  width: 100%;
+  height: 100%;
+}
